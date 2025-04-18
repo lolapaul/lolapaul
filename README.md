@@ -1,6 +1,5 @@
 <img src="./datascience.webp" width="800"/>
 
-## 👋 Hi there, my name is David Villanueva
 
 ---
 
