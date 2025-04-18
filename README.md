@@ -1,4 +1,4 @@
-<img src="./david_profile.png" width="600"/>
+<img src="./datascience.webp" width="600"/>
 
 ## 👋 Hi there, my name is David Villanueva
 
