@@ -1,3 +1,5 @@
+<img src="./david_profile.png" width="600"/>
+
 ## 👋 Hi there, my name is David Villanueva
 
 <!--
