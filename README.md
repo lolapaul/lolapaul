@@ -24,7 +24,7 @@ I'm passionate about solving real-world problems using data, modeling, and impac
 
 ---
 
-## 📂 Want to explore all my projects?
+##  Want to explore all my projects?
 
  [See all my repositories here](https://github.com/lolapaul?tab=repositories)
 
