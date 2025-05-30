@@ -13,7 +13,7 @@ I'm passionate about solving real-world problems using data, modeling, and impac
 
 ##  Featured Projects
 
-| Project | Objetive | Technologies |
+| Project | Objective | Technologies |
 |---------|-------------|--------------|
 | [ Movie Review Sentiment Analysis](https://github.com/lolapaul/movie-review-sentiment-analysis) | Build a binary classification model to automatically detect negative film reviews using labeled data from IMDB. Explore different modeling techniques and analyze their ability to generalize to unseen reviews. |
 | [ Age Detection via Computer Vision](https://github.com/lolapaul/age-detection-cnn) | Image-based age prediction using CNNs and transfer learning (ResNet50), trained on GPU. | TensorFlow, Keras, ResNet50 |
