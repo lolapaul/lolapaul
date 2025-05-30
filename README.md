@@ -16,7 +16,7 @@ I'm passionate about solving real-world problems using data, modeling, and impac
 | Project | Objective | Technologies |
 |---------|-------------|--------------|
 | [ Movie Review Sentiment Analysis](https://github.com/lolapaul/movie-review-sentiment-analysis) | Build a binary classification model to automatically detect negative film reviews using labeled data from IMDB. Explore different modeling techniques and analyze their ability to generalize to unseen reviews. | NLP, TF-IDF, scikit-learn |
-| [ Age Detection via Computer Vision](https://github.com/lolapaul/age-estimation-cnn) | Image-based age prediction using CNNs and transfer learning (ResNet50), trained on GPU. | TensorFlow, Keras, ResNet50 |
+| [ Age Detection via Computer Vision](https://github.com/lolapaul/age-estimation-cnn) | Develop a deep learning model that estimates a person's age from their photograph to determine if they are legally eligible to purchase alcohol. | TensorFlow, Keras, ResNet50 |
 | [ Customer Churn Prediction](https://github.com/lolapaul/customer-churn-prediction) | Built a machine learning pipeline to predict customer churn with AUC-ROC ≥ 0.88. | pandas, scikit-learn, xgboost |
 | [ Used Car Price Prediction](https://github.com/lolapaul/used-car-price-prediction) | Modeled used car prices using tree-based models and boosting techniques. | LightGBM, Random Forest, pandas |
 | [ Instacart Behavior Analysis](https://github.com/lolapaul/instacart-customer-behavior-analysis) | Exploratory data analysis of grocery purchase habits with product reorder patterns. | pandas, matplotlib, seaborn |
