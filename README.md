@@ -5,7 +5,9 @@
 
 ## 👋 Hi! I'm David Villanueva
 
-I'm a data analyst transitioning into Data Science, with a strong foundation in finance, advanced analytics, and machine learning. I've completed a data science bootcamp, an IBM Data Science Specialization, and applied my knowledge through diverse projects involving predictive modeling, computer vision, time series forecasting, NLP, and business-focused data analysis.
+I'm a Data Scientist, with a strong foundation in finance, advanced analytics, and machine learning. 
+
+Aqui poner el resumen de los proyectos que he realizado y que software o herramientas he usado
 
 I'm passionate about solving real-world problems using data, modeling, and impactful storytelling.
 
