@@ -20,7 +20,7 @@ I'm passionate about solving real-world problems using data, modeling, and impac
 | [ Customer Churn Prediction](https://github.com/lolapaul/customer-churn-prediction) | This project builds a machine learning model to predict customer churn for Interconnect, a telecom provider. The company wants to proactively identify customers likely to leave and offer them retention incentives. | pandas, scikit-learn, xgboost |
 | [ Used Car Price Prediction](https://github.com/lolapaul/used-car-price-prediction) | Machine learning project to predict the market price of used cars. | LightGBM, Random Forest, pandas |
 | [ Instacart Behavior Analysis](https://github.com/lolapaul/instacart-customer-behavior-analysis) | Exploratory data analysis of a modified Instacart dataset to uncover customer behavior and shopping habits. | pandas, matplotlib, seaborn |
-| [ Chicago Taxi & Weather Analysis](https://github.com/lolapaul/chicago-taxi-analysis) | Combined SQL and Python to assess the impact of weather on taxi ride durations. | SQL, pandas, seaborn |
+| [ Chicago Taxi & Weather Analysis](https://github.com/lolapaul/chicago-taxi-analysis) | This project analyzes Chicago taxi data to explore trip patterns, company performance, neighborhood demand, and weather impacts—specifically testing if rain affects travel time. | SQL, pandas, seaborn |
 
 ---
 
