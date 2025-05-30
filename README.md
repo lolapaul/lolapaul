@@ -7,8 +7,6 @@
 
 I'm a Data Scientist, with a strong foundation in finance, advanced analytics, and machine learning. 
 
-Aqui poner el resumen de los proyectos que he realizado y que software o herramientas he usado, quitamos que habia terminado un bootcamp y habia hecho una especilaización,
-
 I'm passionate about solving real-world problems using data, modeling, and impactful storytelling.
 
 ---
