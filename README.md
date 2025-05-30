@@ -7,7 +7,8 @@
 
 I'm a Data Scientist with a strong foundation in finance, advanced analytics, and machine learning.
 
-I'm passionate about solving real-world problems through data modeling and compelling storytelling. My work focuses on industries such as:
+I'm passionate about solving real-world problems through data modeling and compelling storytelling. The projects in this GitHub profile explore applications across various industries, including:
+
 
 - **Finance and Fintech**
 - **Retail and E-commerce**
