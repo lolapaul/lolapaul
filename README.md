@@ -19,7 +19,7 @@ I'm passionate about solving real-world problems using data, modeling, and impac
 | [ Age Detection via Computer Vision](https://github.com/lolapaul/age-estimation-cnn) | Develop a deep learning model that estimates a person's age from their photograph to determine if they are legally eligible to purchase alcohol. | TensorFlow, Keras, ResNet50 |
 | [ Customer Churn Prediction](https://github.com/lolapaul/customer-churn-prediction) | This project builds a machine learning model to predict customer churn for Interconnect, a telecom provider. The company wants to proactively identify customers likely to leave and offer them retention incentives. | pandas, scikit-learn, xgboost |
 | [ Used Car Price Prediction](https://github.com/lolapaul/used-car-price-prediction) | Machine learning project to predict the market price of used cars. | LightGBM, Random Forest, pandas |
-| [ Instacart Behavior Analysis](https://github.com/lolapaul/instacart-customer-behavior-analysis) | Exploratory data analysis of grocery purchase habits with product reorder patterns. | pandas, matplotlib, seaborn |
+| [ Instacart Behavior Analysis](https://github.com/lolapaul/instacart-customer-behavior-analysis) | Exploratory data analysis of a modified Instacart dataset to uncover customer behavior and shopping habits. | pandas, matplotlib, seaborn |
 | [ Chicago Taxi & Weather Analysis](https://github.com/lolapaul/chicago-taxi-analysis) | Combined SQL and Python to assess the impact of weather on taxi ride durations. | SQL, pandas, seaborn |
 
 ---
