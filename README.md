@@ -5,9 +5,26 @@
 
 ## 👋 Hi! I'm David Villanueva
 
-I'm a Data Scientist, with a strong foundation in finance, advanced analytics, and machine learning. 
+I'm a Data Scientist with a strong foundation in finance, advanced analytics, and machine learning.
 
-I'm passionate about solving real-world problems using data, modeling, and impactful storytelling.
+I'm passionate about solving real-world problems through data modeling and compelling storytelling. My work focuses on industries such as:
+
+- **Finance and Fintech**
+- **Retail and E-commerce**
+- **Consumer Behavior Analytics**
+- **Housing and Real Estate**
+- **Music Streaming and Entertainment**
+
+**Technologies and tools I use:**
+
+- **Python**: pandas, NumPy, scikit-learn, XGBoost, TensorFlow, Keras  
+- **SQL**: for querying structured data  
+- **Visualization**: Matplotlib, Seaborn  
+- **Notebooks**: Jupyter, Google Colab  
+- **Version Control**: Git, GitHub  
+- **Dashboards and Reports**: Power BI (when applicable), Excel, Google Sheets  
+
+Feel free to explore my repositories — each one includes a detailed `README.md` explaining the project scope, tools used, and key insights.
 
 ---
 
